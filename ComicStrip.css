@@ -1,0 +1,30 @@
+.comic-container
+{
+  height: flex;
+  display: flex;
+  margin: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  
+}
+.img{
+  width: 280px;
+  height: 280px;
+}
+
+.img2{
+    width: auto;
+    max-width: 280px;
+    height: auto;
+    max-height: 280px;
+}
+
+.container
+{
+  justify-content: center;
+  padding: 50px 100px;
+  margin: 0;
+}
+
+
+
