@@ -1,54 +1,18 @@
 .comic-container
 {
-  height: 500px;
+  height: flex;
   display: flex;
+  margin: flex;
   flex-wrap: wrap;
   justify-content: center;
-  background:grey;
   
 }
-.panelOne
-{
-  height: 200px;
-  width: 200px;
-  border-style: groove;
-  border-color:black;
-  background: whitesmoke;
-}
-.panelTwo
-{
-  height: 200px;
-  width: 200px;
-  background: whitesmoke;  
-}
-.panelThree
-{
-  height: 200px;
-  width: 200px;
-  border-style: groove;
-  border-color:black;
-  background:whitesmoke;  
-}
-.panelFour
-{
-  height: 200px;
-  width: 200px;
-  justify-content: center;
-  border-style: groove;
-  border-color:black;
-  background: whitesmoke;  
-}
 
-.img
-{
-  height:150px;
-  width: 200px;
-}
-
-.imgTwo
-{
-  height: 150px;
-  width: 200px;
+.img2{
+    width: auto;
+    max-width: 280px;
+    height: auto;
+    max-height: 280px;
 }
 
 .container
@@ -57,3 +21,6 @@
   padding: 50px 100px;
   margin: 0;
 }
+
+
+
